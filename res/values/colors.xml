@@ -26,11 +26,11 @@
     <color name="bookmarkWidgetFolderBackground">#A0383847</color>
     <color name="bookmarkWidgetFaviconBackground">#23ffffff</color>
     <color name="bookmarkListFaviconBackground">#23ffffff</color>
-    <color name="tabFaviconBackground">#4caf50</color>
+    <color name="tabFaviconBackground">#1abc9c</color>
     <color name="tabFocusHighlight">#FF99CC00</color>
     <color name="qcMenuBackground">#C0000000</color>
-    <color name="qc_normal">#4caf50</color>
-    <color name="qc_selected">#388e3c</color>
+    <color name="qc_normal">#1abc9c</color>
+    <color name="qc_selected">#1abc9c</color>
     <color name="qc_sub">#2e7d32</color>
     <color name="qc_tab_nr">#2e7d32</color>
     <color name="tabViewTitleBackground">#D0000000</color>
